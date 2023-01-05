@@ -1,0 +1,101 @@
+Number,Name,Race,Gender,Age,Origin,Status,Notes
+1,Aegeus,Human,m,22,,alive,
+2,Alethea,Satyr,f,58,,alive,
+3,Anaxagoras,Human,m,56,,alive,
+4,Andie,Centaur,m,30,,alive,"<p>- main ballista crew <br />- manned the front ballista in the fight against <a href=""#"" class=""mention"" data-name=""Goloron"" data-mention=""[character:3768293]"">Goloron</a><br>- survived the attack by <a href=""#"" class=""mention"" data-name=""Goloron"" data-mention=""[character:3768293]"">Goloron</a><br></p>"
+5,Atlas,Satyr,m,20,,dead,"<p>- manned the front ballista in the fight against <a href=""#"" class=""mention"" data-name=""Goloron"" data-mention=""[character:3768293]"">Goloron</a><br>- died in the attack by <a href=""#"" class=""mention"" data-name=""Goloron"" data-mention=""[character:3768293]"">Goloron</a></p>"
+6,Atticus,Human,m,34,,dead,"<p>- manned the front ballista in the fight against <a href=""#"" class=""mention"" data-name=""Goloron"" data-mention=""[character:3768293]"">Goloron</a><br>- died in the attack by <a href=""#"" class=""mention"" data-name=""Goloron"" data-mention=""[character:3768293]"">Goloron</a></p>"
+7,Bakchos,Minotaur,m,26,,alive,
+8,Cadmus,Human,m,20,,alive,
+9,Caiaphas,Halfling,m,64,,alive,
+10,Calligenia,Minotaur,f,28,,alive,
+11,Calliope,Human,f,26,,alive,
+12,Celandine,Centaur,f,33,,alive,<p>- secondary ballista crew</p>
+13,Chariton,Tiefling,m,53,,alive,
+14,Chloris,Siren,m,45,,alive,"<p>- secondary ballista crew <br />- landed with the Heroes on the <a href=""#"" class=""mention"" data-name=""Island of Yonder"" data-mention=""[location:3037320]"">Island of Yonder</a><br></p>"
+15,Chryseis,Human,m,58,,alive,
+16,Cleitus,Elf,m,29,Aresia,dead,"<p>- manned the back ballista in the fight again <a href=""#"" class=""mention"" data-name=""Goloron"" data-mention=""[character:3768293]"">Goloron</a><br />- died fighting the young scorpions on <a href=""#"" class=""mention"" data-name=""Scorpion Island"" data-mention=""[location:2713484]"">Scorpion Island</a><br />- landed with the Heroes on <a href=""#"" class=""mention"" data-name=""Scorpion Island"" data-mention=""[location:2713484]"">Scorpion Island</a></p>"
+17,Cymone,Human,f,34,,alive,
+18,Damali,Half-Orc,m,62,,alive,
+19,Danae,Human,f,31,,alive,
+20,Desma,Dwarf,f,40,,alive,
+21,Diona,Human,f,26,,alive,
+22,Echo,Siren,f,21,,alive,<p>- secondary ballista crew</p>
+23,Efimia,Human,f,27,,alive,
+24,Eirene,Nymph,f,27,,alive,
+25,Elpida,Dwarf,f,23,,alive,<p>- secondary ballista crew</p>
+26,Elpis,Gnome,m,42,,alive,"<p>- helped <a href=""#"" class=""mention"" data-name=""Leira"" data-mention=""[character:1966930]"">Leira</a> weave a banner for <a href=""#"" class=""mention"" data-name=""Kaia"" data-mention=""[character:1877099]"">Kaia</a>'s trials on <a href=""#"" class=""mention"" data-name=""Scorpion Island"" data-mention=""[location:2713484]"">Scorpion Island</a></p>"
+27,Eurybia,Human,f,22,,alive,
+28,Evgenia,Human,f,63,,alive,<p>- secondary ballista crew</p>
+29,Fotis,Nymph,m,31,,alive,
+30,Gennadios,Human,m,19,,alive,
+31,Glykeria,Human,f,50,,alive,
+32,Gregorios,Human,m,26,,alive,<p>- secondary ballista crew</p>
+33,Gyles,Orc,m,34,,alive,"<p>- main ballista crew <br />- manned the back ballista in the fight again <a href=""#"" class=""mention"" data-name=""Goloron"" data-mention=""[character:3768293]"">Goloron</a><br></p>"
+34,Haemon,Half-Elf,m,23,,alive,
+35,Hesiod,Halfling,m,27,,alive,
+36,Horus,Minotaur,m,24,,alive,
+37,Hyginos,Tiefling,m,54,,alive,
+38,Hypatios,Nymph,m,18,,alive,
+39,Iason,Siren,m,59,,alive,<p>- secondary ballista crew</p>
+40,Iduma,Siren,f,19,,alive,
+41,Inatha,Centaur,f,32,,alive,
+42,Iola,Dwarf,f,42,,alive,
+43,Iphigenia,Human,f,35,,alive,
+44,Isokrates,Satyr,m,53,,alive,<p>- secondary ballista crew</p>
+45,Kallias,Human,m,28,,alive,<p>- main ballista crew</p>
+46,Karpos,Gnome,m,18,,alive,
+47,Kephalos,Human,m,25,,alive,<p>- secondary ballista crew</p>
+48,Kleio,Human,m,20,,alive,<p>- main ballista crew</p>
+49,Klotho,Centaur,m,38,,alive,
+50,Kore,Minotaur,f,25,,alive,
+51,Kyriake,Human,f,20,,alive,<p>- main ballista crew</p>
+52,Lachesis,Dwarf,m,38,,alive,"<p>- main ballista crew <br />- ran away in fear during the fight against <a href=""#"" class=""mention"" data-name=""Goloron"" data-mention=""[character:3768293]"">Goloron</a><br></p>"
+53,Leandros,Human,m,25,Aresia,alive,"<p>- landed with the Heroes on <a href=""#"" class=""mention"" data-name=""Scorpion Island"" data-mention=""[location:2713484]"">Scorpion Island</a></p>"
+54,Lefteris,Orc,m,22,,alive,
+55,Leptina,Human,f,61,,alive,"<p>- main ballista crew <br />- manned the back ballista in the fight again <a href=""#"" class=""mention"" data-name=""Goloron"" data-mention=""[character:3768293]"">Goloron</a><br></p>"
+56,Leto,Human,m,25,,alive,"<p>- landed with the Heroes on the <a href=""#"" class=""mention"" data-name=""Island of Yonder"" data-mention=""[location:3037320]"">Island of Yonder</a><br></p>"
+57,Ligeia,Centaur,f,25,,alive,
+58,Lykourgos,Halfling,m,24,,alive,
+59,Lysimachos,Dwarf,m,59,,alive,
+60,Maeja,Minotaur,f,51,Aresia,alive,"<p>- landed with the Heroes on <a href=""#"" class=""mention"" data-name=""Scorpion Island"" data-mention=""[location:2713484]"">Scorpion Island</a></p>"
+61,Makarios,Satyr,m,55,,alive,"<p>- landed with the Heroes on the <a href=""#"" class=""mention"" data-name=""Island of Yonder"" data-mention=""[location:3037320]"">Island of Yonder</a><br></p>"
+62,Medeia,Minotaur,f,32,,alive,
+63,Megaira,Human,f,33,,alive,
+64,Melita,Siren,f,33,Aresia,alive,"<p>- landed with the Heroes on <a href=""#"" class=""mention"" data-name=""Scorpion Island"" data-mention=""[location:2713484]"">Scorpion Island</a></p>"
+65,Melpomene,Nymph,f,23,,alive,
+66,Miltiades,Human,m,38,,alive,
+67,Mneme,Siren,f,26,,alive,<p>- secondary ballista crew</p>
+68,Myra,Human,f,27,,alive,
+69,Myron,Tiefling,m,28,,alive,"<p>- main ballista crew <br />- manned the back ballista in the fight again <a href=""#"" class=""mention"" data-name=""Goloron"" data-mention=""[character:3768293]"">Goloron</a><br></p>"
+70,Nephele,Elf,f,21,,alive,
+71,Nephthys,Human,m,61,,alive,
+72,Nereus,Human,m,39,,alive,<p>- main ballista crew</p>
+73,Nestor,Nymph,m,31,,alive,
+74,Nike,Centaur,m,28,,alive,<p>- main ballista crew</p>
+75,Nomiki,Dwarf,m,29,,alive,
+76,Okeanos,Satyr,m,18,,alive,
+77,Onesimos,Human,m,42,,alive,
+78,Pallas,Half-Orc,m,18,,alive,
+79,Pamphilos,Siren,m,19,,alive,
+80,Panos,Human,m,29,,alive,
+81,Pantheras,Tiefling,m,37,,alive,
+82,Parthenope,Human,f,47,,alive,"<p>- landed with the Heroes on the <a href=""#"" class=""mention"" data-name=""Island of Yonder"" data-mention=""[location:3037320]"">Island of Yonder</a><br></p>"
+83,Phaidra,Gnome,f,56,,alive,
+84,Polyxene,Half-Elf,f,41,,alive,
+85,Rhea,Nymph,f,21,,alive,
+86,Sappho,Human,f,34,,alive,
+87,Semele,Siren,f,25,,alive,
+88,Solon,Dwarf,m,22,,alive,
+89,Stelios,Centaur,m,44,,alive,
+90,Teris,Orc,m,20,,alive,<p>- secondary ballista crew</p>
+91,Themistius,Half-Orc,m,38,,alive,"<p>- main ballista crew <br />- manned the back ballista in the fight again <a href=""#"" class=""mention"" data-name=""Goloron"" data-mention=""[character:3768293]"">Goloron</a><br></p>"
+92,Timaeus,Human,m,18,,alive,"<p>- main ballista crew <br />- manned the back ballista in the fight again <a href=""#"" class=""mention"" data-name=""Goloron"" data-mention=""[character:3768293]"">Goloron</a><br></p>"
+93,Timaios,Nymph,m,31,,alive,
+94,Tryphaina,Satyr,f,32,Aresia,alive,"<p>- secondary ballista crew <br />- landed with the Heroes on <a href=""#"" class=""mention"" data-name=""Scorpion Island"" data-mention=""[location:2713484]"">Scorpion Island</a></p>"
+95,Vasiliki,Minotaur,f,18,,alive,
+96,Xanthippe,Satyr,f,39,,alive,
+97,Xerxes,Dwarf,m,26,,alive,"<p>- helped <a href=""#"" class=""mention"" data-name=""Leira"" data-mention=""[character:1966930]"">Leira</a> weave a banner for <a href=""#"" class=""mention"" data-name=""Kaia"" data-mention=""[character:1877099]"">Kaia</a>'s trials on <a href=""#"" class=""mention"" data-name=""Scorpion Island"" data-mention=""[location:2713484]"">Scorpion Island</a></p>"
+98,Zebedee,Human,m,19,,alive,
+99,Zopyros,Human,m,25,,alive,
+100,Zotikos,Human,m,28,,alive,
